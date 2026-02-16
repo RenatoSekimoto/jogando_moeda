@@ -1,1 +1,3 @@
-# jogando_moeda
+pandas
+scipy
+streamlit
